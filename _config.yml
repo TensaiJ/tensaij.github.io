@@ -1,5 +1,5 @@
 # Where things are
-theme              : jekyll-theme-minima
+theme              : minima
 title              : "Josh's Portfolio"
 source              : .
 destination         : ./_site
