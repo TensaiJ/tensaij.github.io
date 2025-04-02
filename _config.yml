@@ -1,5 +1,5 @@
 # Where things are
-theme              : minima
+theme              : minima-dark
 title              : "Josh's Portfolio"
 source              : .
 destination         : ./_site
