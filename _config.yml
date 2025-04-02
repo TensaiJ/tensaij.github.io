@@ -1,4 +1,6 @@
 # Where things are
+theme              : jekyll-theme-minimal
+title              : "Josh's Portfolio"
 source              : .
 destination         : ./_site
 collections_dir     : .
